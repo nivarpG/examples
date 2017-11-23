@@ -1,3 +1,1 @@
-Pravin Kumar G,
-Wipro Limited,
-Bangalore 560100.
+pravinkumarg95@gmail.com
